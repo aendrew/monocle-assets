@@ -1,0 +1,11 @@
+# Logfile created on 2014-02-16 18:21:00 +0000 by logger.rb/41954
+I, [2014-02-16T18:21:00.128997 #93091]  INFO -- : 0:  kgio (2.8.0) from /Users/aendrew/.rvm/gems/ruby-2.0.0-p353/specifications/kgio-2.8.0.gemspec
+I, [2014-02-16T18:21:01.621687 #93091]  INFO -- : 0:  subexec (0.2.3) from /Users/aendrew/.rvm/gems/ruby-2.0.0-p353/specifications/subexec-0.2.3.gemspec
+I, [2014-02-16T18:21:03.364213 #93091]  INFO -- : 0:  mini_magick (3.6.0) from /Users/aendrew/.rvm/gems/ruby-2.0.0-p353/specifications/mini_magick-3.6.0.gemspec
+I, [2014-02-16T18:21:03.364672 #93091]  INFO -- : 0:  rack (1.5.2) from /Users/aendrew/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-16T18:21:04.641424 #93091]  INFO -- : 0:  rack-protection (1.5.0) from /Users/aendrew/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.0.gemspec
+I, [2014-02-16T18:21:07.219840 #93091]  INFO -- : 0:  raindrops (0.11.0) from /Users/aendrew/.rvm/gems/ruby-2.0.0-p353/specifications/raindrops-0.11.0.gemspec
+I, [2014-02-16T18:21:07.220426 #93091]  INFO -- : 0:  tilt (1.4.1) from /Users/aendrew/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-02-16T18:21:09.185143 #93091]  INFO -- : 0:  sinatra (1.4.3) from /Users/aendrew/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.3.gemspec
+I, [2014-02-16T18:21:12.549616 #93091]  INFO -- : 0:  unicorn (4.6.3) from /Users/aendrew/.rvm/gems/ruby-2.0.0-p353/specifications/unicorn-4.6.3.gemspec
+I, [2014-02-16T18:21:12.550317 #93091]  INFO -- : 0:  bundler (1.5.1) from /Users/aendrew/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
